@@ -4,7 +4,7 @@
 This is a simple and interactive **Streamlit web app** that predicts the likelihood of a restaurant receiving good reviews based on several input factors like pricing, table booking, online orders, and more.
 
 ## 🚀 Demo
-[👉 Live App](https://your-streamlit-link-here) — *(Add your deployed app link)*
+[👉 Live App](https://your-streamlit-link-here) — *(https://e2tdiuyp9yekvmbztazhqk.streamlit.app/)*
 
 ## 🧠 Features
 - Predicts restaurant review class (Good/Bad)
